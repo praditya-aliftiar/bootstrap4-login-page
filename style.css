@@ -1,0 +1,30 @@
+.container-fluid {
+  background-image: url("img/login-bg1.jpg");
+  background-size: cover;
+}
+
+input.form-control {
+  border-radius: 20px;
+  height: 40px;
+}
+.login-page {
+  border-radius: 20px;
+  padding: 50px;
+  margin: auto;
+  margin-top: 90px;
+  margin-bottom: 110px;
+  background-color: white;
+}
+
+p.link {
+  margin-top: 20px;
+}
+
+.register-page {
+  border-radius: 20px;
+  padding: 50px;
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 70px;
+  background-color: white;
+}
